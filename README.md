@@ -3,6 +3,9 @@
 Bu proje, sensör verilerinin gerçek zamanlı analizini yapan, WebSocket kullanarak canlı veri akışı sağlayan ve Chart.js ile veri görselleştirmesi sunan bir sistemdir. .NET 8 ile geliştirilmiştir.
 
 ## Proje Yapısı
+![image](https://github.com/onrkrsy/realtimeDataProcessing/assets/11960564/6252182e-b8d6-475e-a2e9-f8baa39a0ccb)
+
+
 ```
 RealTimeDataAnalysis/
 │
@@ -117,6 +120,7 @@ function updateChart(chart, canvasId, labels, data, label, color) {
     return chart;
 }
  
+![image](https://github.com/onrkrsy/realtimeDataProcessing/assets/11960564/6fff1488-d127-4f68-b7ca-2c6e1d11f227)
 
 ## Nasıl Çalışır?
 
