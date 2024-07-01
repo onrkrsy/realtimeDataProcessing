@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Name": "src\\RealTimeDataAnalysis.Api\\RealTimeDataAnalysis.Api.csproj",
+        "Action": "Start"
+      },
+      {
+        "Name": "src\\RealTimeDataAnalysis.Web\\RealTimeDataAnalysis.Web.csproj",
+        "Action": "Start",
+        "DebugTarget": ""
+      },
+      {
+        "Name": "MockSensorDataService\\MockSensorDataService.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

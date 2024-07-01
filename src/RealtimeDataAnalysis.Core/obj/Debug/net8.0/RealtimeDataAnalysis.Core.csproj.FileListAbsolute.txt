@@ -1,0 +1,11 @@
+D:\benim\ronesans\Ronesans.RealTimeDataAnalysis\src\RealtimeDataAnalysis.Core\bin\Debug\net8.0\RealtimeDataAnalysis.Core.deps.json
+D:\benim\ronesans\Ronesans.RealTimeDataAnalysis\src\RealtimeDataAnalysis.Core\bin\Debug\net8.0\RealtimeDataAnalysis.Core.dll
+D:\benim\ronesans\Ronesans.RealTimeDataAnalysis\src\RealtimeDataAnalysis.Core\bin\Debug\net8.0\RealtimeDataAnalysis.Core.pdb
+D:\benim\ronesans\Ronesans.RealTimeDataAnalysis\src\RealtimeDataAnalysis.Core\obj\Debug\net8.0\RealtimeDataAnalysis.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\benim\ronesans\Ronesans.RealTimeDataAnalysis\src\RealtimeDataAnalysis.Core\obj\Debug\net8.0\RealtimeDataAnalysis.Core.AssemblyInfoInputs.cache
+D:\benim\ronesans\Ronesans.RealTimeDataAnalysis\src\RealtimeDataAnalysis.Core\obj\Debug\net8.0\RealtimeDataAnalysis.Core.AssemblyInfo.cs
+D:\benim\ronesans\Ronesans.RealTimeDataAnalysis\src\RealtimeDataAnalysis.Core\obj\Debug\net8.0\RealtimeDataAnalysis.Core.csproj.CoreCompileInputs.cache
+D:\benim\ronesans\Ronesans.RealTimeDataAnalysis\src\RealtimeDataAnalysis.Core\obj\Debug\net8.0\RealtimeDataAnalysis.Core.dll
+D:\benim\ronesans\Ronesans.RealTimeDataAnalysis\src\RealtimeDataAnalysis.Core\obj\Debug\net8.0\refint\RealtimeDataAnalysis.Core.dll
+D:\benim\ronesans\Ronesans.RealTimeDataAnalysis\src\RealtimeDataAnalysis.Core\obj\Debug\net8.0\RealtimeDataAnalysis.Core.pdb
+D:\benim\ronesans\Ronesans.RealTimeDataAnalysis\src\RealtimeDataAnalysis.Core\obj\Debug\net8.0\ref\RealtimeDataAnalysis.Core.dll

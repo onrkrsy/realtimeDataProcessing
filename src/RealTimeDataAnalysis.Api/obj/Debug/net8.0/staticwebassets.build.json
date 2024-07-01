@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "62bGUSGtNUkcVfnY+4BAkINFGHU2q4Xc8dknUXwbOcE=",
+  "Source": "RealTimeDataAnalysis.Api",
+  "BasePath": "_content/RealTimeDataAnalysis.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

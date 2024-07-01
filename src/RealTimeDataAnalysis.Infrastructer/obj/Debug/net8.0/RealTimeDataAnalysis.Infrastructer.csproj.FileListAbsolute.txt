@@ -1,0 +1,17 @@
+D:\benim\ronesans\Ronesans.RealTimeDataAnalysis\src\RealTimeDataAnalysis.Infrastructer\bin\Debug\net8.0\RealTimeDataAnalysis.Infrastructer.deps.json
+D:\benim\ronesans\Ronesans.RealTimeDataAnalysis\src\RealTimeDataAnalysis.Infrastructer\bin\Debug\net8.0\RealTimeDataAnalysis.Infrastructer.dll
+D:\benim\ronesans\Ronesans.RealTimeDataAnalysis\src\RealTimeDataAnalysis.Infrastructer\bin\Debug\net8.0\RealTimeDataAnalysis.Infrastructer.pdb
+D:\benim\ronesans\Ronesans.RealTimeDataAnalysis\src\RealTimeDataAnalysis.Infrastructer\bin\Debug\net8.0\RealTimeDataAnalysis.Application.dll
+D:\benim\ronesans\Ronesans.RealTimeDataAnalysis\src\RealTimeDataAnalysis.Infrastructer\bin\Debug\net8.0\RealtimeDataAnalysis.Core.dll
+D:\benim\ronesans\Ronesans.RealTimeDataAnalysis\src\RealTimeDataAnalysis.Infrastructer\bin\Debug\net8.0\RealTimeDataAnalysis.Application.pdb
+D:\benim\ronesans\Ronesans.RealTimeDataAnalysis\src\RealTimeDataAnalysis.Infrastructer\bin\Debug\net8.0\RealtimeDataAnalysis.Core.pdb
+D:\benim\ronesans\Ronesans.RealTimeDataAnalysis\src\RealTimeDataAnalysis.Infrastructer\obj\Debug\net8.0\RealTimeDataAnalysis.Infrastructer.csproj.AssemblyReference.cache
+D:\benim\ronesans\Ronesans.RealTimeDataAnalysis\src\RealTimeDataAnalysis.Infrastructer\obj\Debug\net8.0\RealTimeDataAnalysis.Infrastructer.GeneratedMSBuildEditorConfig.editorconfig
+D:\benim\ronesans\Ronesans.RealTimeDataAnalysis\src\RealTimeDataAnalysis.Infrastructer\obj\Debug\net8.0\RealTimeDataAnalysis.Infrastructer.AssemblyInfoInputs.cache
+D:\benim\ronesans\Ronesans.RealTimeDataAnalysis\src\RealTimeDataAnalysis.Infrastructer\obj\Debug\net8.0\RealTimeDataAnalysis.Infrastructer.AssemblyInfo.cs
+D:\benim\ronesans\Ronesans.RealTimeDataAnalysis\src\RealTimeDataAnalysis.Infrastructer\obj\Debug\net8.0\RealTimeDataAnalysis.Infrastructer.csproj.CoreCompileInputs.cache
+D:\benim\ronesans\Ronesans.RealTimeDataAnalysis\src\RealTimeDataAnalysis.Infrastructer\obj\Debug\net8.0\RealTime.4CE877F1.Up2Date
+D:\benim\ronesans\Ronesans.RealTimeDataAnalysis\src\RealTimeDataAnalysis.Infrastructer\obj\Debug\net8.0\RealTimeDataAnalysis.Infrastructer.dll
+D:\benim\ronesans\Ronesans.RealTimeDataAnalysis\src\RealTimeDataAnalysis.Infrastructer\obj\Debug\net8.0\refint\RealTimeDataAnalysis.Infrastructer.dll
+D:\benim\ronesans\Ronesans.RealTimeDataAnalysis\src\RealTimeDataAnalysis.Infrastructer\obj\Debug\net8.0\RealTimeDataAnalysis.Infrastructer.pdb
+D:\benim\ronesans\Ronesans.RealTimeDataAnalysis\src\RealTimeDataAnalysis.Infrastructer\obj\Debug\net8.0\ref\RealTimeDataAnalysis.Infrastructer.dll

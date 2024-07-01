@@ -1,0 +1,25 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="container">
+    <h1>Real-Time Sensor Data Analysis</h1>
+    <canvas id="sensorChart"></canvas>
+    <div class="row">
+        <div class="col-md-6">
+            <canvas id="temperatureChart"></canvas>
+        </div>
+        <div class ="col-md-6">
+            <canvas id="humidityChart"></canvas>
+         </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <canvas id="combinedChart"></canvas>
+        </div> 
+    </div>
+
+    <div><div id="lastFetchDate"></div></div>
+</div>

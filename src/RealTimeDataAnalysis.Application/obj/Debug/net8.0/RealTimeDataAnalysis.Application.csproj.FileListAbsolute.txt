@@ -1,0 +1,15 @@
+D:\benim\ronesans\Ronesans.RealTimeDataAnalysis\src\RealTimeDataAnalysis.Application\bin\Debug\net8.0\RealTimeDataAnalysis.Application.deps.json
+D:\benim\ronesans\Ronesans.RealTimeDataAnalysis\src\RealTimeDataAnalysis.Application\bin\Debug\net8.0\RealTimeDataAnalysis.Application.dll
+D:\benim\ronesans\Ronesans.RealTimeDataAnalysis\src\RealTimeDataAnalysis.Application\bin\Debug\net8.0\RealTimeDataAnalysis.Application.pdb
+D:\benim\ronesans\Ronesans.RealTimeDataAnalysis\src\RealTimeDataAnalysis.Application\bin\Debug\net8.0\RealtimeDataAnalysis.Core.dll
+D:\benim\ronesans\Ronesans.RealTimeDataAnalysis\src\RealTimeDataAnalysis.Application\bin\Debug\net8.0\RealtimeDataAnalysis.Core.pdb
+D:\benim\ronesans\Ronesans.RealTimeDataAnalysis\src\RealTimeDataAnalysis.Application\obj\Debug\net8.0\RealTimeDataAnalysis.Application.csproj.AssemblyReference.cache
+D:\benim\ronesans\Ronesans.RealTimeDataAnalysis\src\RealTimeDataAnalysis.Application\obj\Debug\net8.0\RealTimeDataAnalysis.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\benim\ronesans\Ronesans.RealTimeDataAnalysis\src\RealTimeDataAnalysis.Application\obj\Debug\net8.0\RealTimeDataAnalysis.Application.AssemblyInfoInputs.cache
+D:\benim\ronesans\Ronesans.RealTimeDataAnalysis\src\RealTimeDataAnalysis.Application\obj\Debug\net8.0\RealTimeDataAnalysis.Application.AssemblyInfo.cs
+D:\benim\ronesans\Ronesans.RealTimeDataAnalysis\src\RealTimeDataAnalysis.Application\obj\Debug\net8.0\RealTimeDataAnalysis.Application.csproj.CoreCompileInputs.cache
+D:\benim\ronesans\Ronesans.RealTimeDataAnalysis\src\RealTimeDataAnalysis.Application\obj\Debug\net8.0\RealTime.B0ED10A2.Up2Date
+D:\benim\ronesans\Ronesans.RealTimeDataAnalysis\src\RealTimeDataAnalysis.Application\obj\Debug\net8.0\RealTimeDataAnalysis.Application.dll
+D:\benim\ronesans\Ronesans.RealTimeDataAnalysis\src\RealTimeDataAnalysis.Application\obj\Debug\net8.0\refint\RealTimeDataAnalysis.Application.dll
+D:\benim\ronesans\Ronesans.RealTimeDataAnalysis\src\RealTimeDataAnalysis.Application\obj\Debug\net8.0\RealTimeDataAnalysis.Application.pdb
+D:\benim\ronesans\Ronesans.RealTimeDataAnalysis\src\RealTimeDataAnalysis.Application\obj\Debug\net8.0\ref\RealTimeDataAnalysis.Application.dll
